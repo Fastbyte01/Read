@@ -1555,7 +1555,7 @@
 	}
 
 	body, input, select, textarea {
-		color: #888;
+		color: #000000;
 		font-family: "Lato", sans-serif;
 		font-size: 16pt;
 		font-weight: 400;
@@ -1591,7 +1591,7 @@
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #777;
+		color: #FF0000;
 		font-weight: 700;
 		line-height: 1em;
 		margin: 0 0 0.5625em 0;
@@ -1726,12 +1726,12 @@
 	}
 
 	header.major h2 {
-		color: #4acaa8;
+		color: #FF0000;
 		font-size: 3.5em;
 	}
 
 		header.major h2 + p {
-			color: #777;
+			color: #FF0000;
 			font-size: 1.75em;
 			font-weight: 700;
 			margin-top: -0.75em;
@@ -1911,31 +1911,31 @@
 	}
 
 	::-webkit-input-placeholder {
-		color: #aaa !important;
+		color: #000000 !important;
 		font-style: italic;
 		opacity: 1.0;
 	}
 
 	:-moz-placeholder {
-		color: #aaa !important;
+		color: #000000 !important;
 		font-style: italic;
 		opacity: 1.0;
 	}
 
 	::-moz-placeholder {
-		color: #aaa !important;
+		color: #000000 !important;
 		font-style: italic;
 		opacity: 1.0;
 	}
 
 	:-ms-input-placeholder {
-		color: #aaa !important;
+		color: #000000 !important;
 		font-style: italic;
 		opacity: 1.0;
 	}
 
 	.formerize-placeholder {
-		color: #aaa !important;
+		color: #000000 !important;
 		font-style: italic;
 		opacity: 1.0;
 	}
@@ -2058,7 +2058,7 @@
 		}
 
 			ul.alt li {
-				border-top: solid 2px #f4f4f4;
+				border-top: solid 2px #000000;
 				padding: 0.5em 0;
 			}
 
@@ -2092,9 +2092,9 @@
 				}
 
 				ul.feature-icons li:before {
-					background: #4acaa8;
+					background: #FF0000;
 					border-radius: 100%;
-					color: #ffffff;
+					color: #000000;
 					display: block;
 					height: 2.5em;
 					left: 0;
@@ -2208,13 +2208,13 @@
 	}
 
 		table tbody tr {
-			border: solid 2px #f4f4f4;
+			border: solid 2px #ffffff;
 			border-left: 0;
 			border-right: 0;
 		}
 
 			table tbody tr:nth-child(2n + 1) {
-				background-color: #fafafa;
+				background-color: #ffffff;
 			}
 
 		table td {
@@ -2414,7 +2414,7 @@
 /* Features */
 
 	.features article {
-		border-top: solid 3px #f4f4f4;
+		border-top: solid 3px #ffffff;
 		margin-bottom: 2.25em;
 		padding-top: 2.25em;
 	}
@@ -2461,8 +2461,8 @@
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background: #4acaa8;
-		color: #d1f1e9;
+		background: #FF0000;
+		color: #000000;
 		height: 100%;
 		overflow-y: auto;
 		position: fixed;
@@ -2473,7 +2473,7 @@
 	}
 
 		#header h1, #header h2, #header h3, #header h4, #header h5, #header h6 {
-			color: #ffffff;
+			color: #000000;
 		}
 
 			#header h1 a, #header h2 a, #header h3 a, #header h4 a, #header h5 a, #header h6 a {
@@ -2481,15 +2481,15 @@
 			}
 
 		#header header p {
-			color: #b6e9dc;
+			color: #000000;
 		}
 
 		#header a {
-			color: #d1f1e9;
+			color: #000000;
 		}
 
 			#header a:hover {
-				color: #ffffff !important;
+				color: #000000 !important;
 			}
 
 		#header > header {
@@ -2512,7 +2512,7 @@
 			}
 
 			#header > header p {
-				color: #d1f1e9;
+				color: #ffffff;
 				font-style: italic;
 				margin: 1em 0 0 0;
 			}
@@ -2533,7 +2533,7 @@
 			}
 
 				#header > footer .icons li a {
-					color: #b6e9dc;
+					color: #000000;
 				}
 
 		#header > nav {
@@ -2550,7 +2550,7 @@
 			}
 
 				#header > nav ul li {
-					border-top: solid 2px #5ccfb0;
+					border-top: solid 2px #FF0000;
 					display: block;
 					padding: 0;
 				}
@@ -2568,8 +2568,8 @@
 					}
 
 						#header > nav ul li a.active {
-							background: #fff;
-							color: #4acaa8 !important;
+							background: #ffffff;
+							color: #000000 !important;
 						}
 
 					#header > nav ul li:first-child {
@@ -2615,7 +2615,7 @@
 	#footer {
 		background: #fafafa;
 		border-top: 0;
-		color: #c0c0c0;
+		color: #000000;
 		overflow: hidden;
 		padding: 4em 0 2em 0;
 	}
