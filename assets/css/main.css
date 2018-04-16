@@ -2462,7 +2462,7 @@
 		-ms-justify-content: space-between;
 		justify-content: space-between;
 		background: #FF0000;
-		color: #000000;
+		color: #ffffff;
 		height: 100%;
 		overflow-y: auto;
 		position: fixed;
@@ -2533,7 +2533,7 @@
 			}
 
 				#header > footer .icons li a {
-					color: #000000;
+					color: #ffffff;
 				}
 
 		#header > nav {
