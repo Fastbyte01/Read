@@ -1,4 +1,4 @@
-#Read
+# Read
 
 **Read** is a simple one page **[Jekyll](https://jekyllrb.com/)** developed by **[Fastbyte01](https://github.com/Fastbyte01)** and based on **[ Read Only template](https://html5up.net/read-only)** by **[Html5up](https://html5up.net)**.
 
@@ -22,7 +22,7 @@ Icons used are by [Font Awesome](https://fontawesome.com/).
 
 Other code used in *Read* are:
 
-*  [jQuery] (jquery.com)
+*  [jQuery](jquery.com)
 
 *  html5shiv.js (@afarkas @jdalton @jon_neal @rem)
 
