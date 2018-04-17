@@ -1,8 +1,8 @@
 # Read
 
-**Read** is a simple one page **[Jekyll](https://jekyllrb.com/)** developed by **[Fastbyte01](https://github.com/Fastbyte01)** and based on **[ Read Only template](https://html5up.net/read-only)** by **[Html5up](https://html5up.net)**.
+**Read** is a simple one page **[Jekyll](https://jekyllrb.com/)**  theme developed by **[Fastbyte01](https://github.com/Fastbyte01)** and based on **[ Read Only template](https://html5up.net/read-only)** by **[Html5up](https://html5up.net)**.
 
-**Free** for *personal and commercial* use under the **[CCA 3.0 license](https://creativecommons.org/licenses/by/3.0/)**.
+**Free** for ***personal and commercial*** use under the **[CCA 3.0 license](https://creativecommons.org/licenses/by/3.0/)**.
 
 Images courtesy of **[Pexels](https://www.pexels.com/)**:
 
