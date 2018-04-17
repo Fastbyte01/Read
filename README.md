@@ -7,6 +7,8 @@
 
 **Free** for ***personal and commercial*** use under the **[CCA 3.0 license](https://creativecommons.org/licenses/by/3.0/)**.
 
+All the options and text are directly editable on the [config file](_config.yml), so you don't need to touch the code.
+
 Images courtesy of **[Pexels](https://www.pexels.com/)**:
 
 * [Person holding a black android smartphone](https://www.pexels.com/photo/person-holding-black-android-smartphone-861126/) by [Oleg Magni](https://www.pexels.com/@oleg-magni-293608).
