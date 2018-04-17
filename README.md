@@ -23,6 +23,8 @@ All the image used are released under the [CC0](https://creativecommons.org/shar
 
 Icons used are by [Font Awesome](https://fontawesome.com/).
 
+To change the icons use [this](https://fontawesome.com/v4.7.0/icons/) for reference.
+
 Others code used in **Read** are:
 
 *  [jQuery](jquery.com)
