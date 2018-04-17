@@ -1,5 +1,8 @@
 # Read
 
+
+![Screenshot](asset/screenshot.png)
+
 **Read** is a simple one page **[Jekyll](https://jekyllrb.com/)**  theme developed by **[Fastbyte01](https://github.com/Fastbyte01)** and based on **[ Read Only template](https://html5up.net/read-only)** by **[Html5up](https://html5up.net)**.
 
 **Free** for ***personal and commercial*** use under the **[CCA 3.0 license](https://creativecommons.org/licenses/by/3.0/)**.
@@ -20,7 +23,7 @@ All the image used are released under the [CC0](https://creativecommons.org/shar
 
 Icons used are by [Font Awesome](https://fontawesome.com/).
 
-Other code used in **Read** are:
+Others code used in **Read** are:
 
 *  [jQuery](jquery.com)
 
