@@ -5,6 +5,11 @@ author: Anthony Stark
 work:  Developer
 year: 2018
 
+# Navigation
+nav1: "About"
+nav2: "Things I Can Do"
+nav3: "A Few Accomplishments"
+
 # Section1
 sec1: "Read Jekyll"
 sec2: "Just an incredibly simple responsive template for Jekyll."
