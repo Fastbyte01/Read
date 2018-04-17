@@ -20,7 +20,7 @@ All the image used are released under the [CC0](https://creativecommons.org/shar
 
 Icons used are by [Font Awesome](https://fontawesome.com/).
 
-Other code used in *Read* are:
+Other code used in **Read** are:
 
 *  [jQuery](jquery.com)
 
