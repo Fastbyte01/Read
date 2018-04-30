@@ -9,6 +9,8 @@
 
 All the options and text are directly editable on the [config file](_config.yml), so you don't need to touch the code.
 
+For a demo of the theme you can go **[here](https://readjekyll.fastbyte01.it/)**.
+
 Images courtesy of **[Pexels](https://www.pexels.com/)**:
 
 * [Person holding a black android smartphone](https://www.pexels.com/photo/person-holding-black-android-smartphone-861126/) by [Oleg Magni](https://www.pexels.com/@oleg-magni-293608).
